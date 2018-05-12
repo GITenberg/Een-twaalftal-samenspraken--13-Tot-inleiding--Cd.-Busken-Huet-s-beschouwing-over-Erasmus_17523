@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3026
     wikipedia: http://en.wikipedia.org/wiki/Erasmus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17523#Een-twaalftal-samenspraken--13-Tot-inleiding--Cd.-Busken-Huet-s-beschouwing-over-Erasmus
 gutenberg_issued: '2006-01-23'
 gutenberg_type: Text
 identifiers:
